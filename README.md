@@ -1,2 +1,2 @@
-# .github
-Our description and stuff yk
+# Liphium
+We create a chat app with features you'll actually use.
